@@ -1,2 +1,2 @@
 # Image_Augmentation_2
-https://github.com/mdbloice/Augmentor
+ imported from https://github.com/mdbloice/Augmentor
