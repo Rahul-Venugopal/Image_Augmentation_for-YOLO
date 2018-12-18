@@ -1,4 +1,6 @@
 Object detection AGV
+
+
 #Scripts
 remove_corrupted_images : to verify all the images downloaded from imagenet url
 
